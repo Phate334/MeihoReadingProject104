@@ -3,3 +3,5 @@
 這份文件包含說明如何在[GAE](https://appengine.google.com/ "Google App Engine")上架設網站，以及處理課程資料的方法與工具，希望能幫助後續維護網站的助理節省時間。
 
 所有教學文件都在[這份倉庫的Wiki](https://github.com/Phate334/MeihoReadingProject104/wiki)中，歡迎接手的網頁助理繼續更新資料。
+
+![Wiki](https://phate334.github.io/MeihoReadingProject104/imgs/wiki.png)
